@@ -54,14 +54,14 @@ How to Run This Project
 
 ### Step 2 - Set Up Environment Variables:
 
-Add the following in .env file located in the root of the project.
-NEXT_PUBLIC_PRIVY_APP_ID=your-privy-app-id
-NEXT_PUBLIC_SUPABASE_URL=your-supabase-url
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your-supabase-anon-key
+- Add the following in .env file located in the root of the project.
+- NEXT_PUBLIC_PRIVY_APP_ID=your-privy-app-id
+- NEXT_PUBLIC_SUPABASE_URL=your-supabase-url
+- NEXT_PUBLIC_SUPABASE_ANON_KEY=your-supabase-anon-key
 
-Replace placeholders with actual values:
-Privy App ID: From Privy Dashboard.
-Supabase URL and Anon Key: From your Supabase Project Settings.
+- Replace placeholders with actual values:
+- Privy App ID: From Privy Dashboard.
+- Supabase URL and Anon Key: From your Supabase Project Settings.
 
 ### Step 3 - Install Dependencies:
 npm install
@@ -72,7 +72,7 @@ npm run dev
 ### Step 5 - Access the app at http://localhost:3000.
 
 ### Troubleshooting Tips
-Ensure the .env file is in the root directory, formatted correctly, and variables are properly defined.
-Restart the development server after updating environment variables.
-Use console.log to verify environment variable values during debugging.
-This streamlined process should help you get the project running successfully. 
+- Ensure the .env file is in the root directory, formatted correctly, and variables are properly defined.
+- Restart the development server after updating environment variables.
+- Use console.log to verify environment variable values during debugging.
+- This streamlined process should help you get the project running successfully. 
