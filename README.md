@@ -54,12 +54,12 @@ How to Run This Project
 
 ### Step 2 - Set Up Environment Variables:
 
-- Add the following in .env file located in the root of the project.
+Add the following in .env file located in the root of the project.
 - NEXT_PUBLIC_PRIVY_APP_ID=your-privy-app-id
 - NEXT_PUBLIC_SUPABASE_URL=your-supabase-url
 - NEXT_PUBLIC_SUPABASE_ANON_KEY=your-supabase-anon-key
 
-- Replace placeholders with actual values:
+Replace placeholders with actual values:
 - Privy App ID: From Privy Dashboard.
 - Supabase URL and Anon Key: From your Supabase Project Settings.
 
